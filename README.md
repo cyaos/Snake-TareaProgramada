@@ -1,8 +1,4 @@
 # Snake en MIPS
-```
-Elaborado por: 
-Elizabeth Huang C23913 y Daniel Gómez C23310
-```
 
 ## Instrucciones
 ```
